@@ -12,7 +12,7 @@ body {
     text-align: right;
 }
 
-.aaa img {
+.aaa-img {
     width: 100%;
 }
 
@@ -107,7 +107,7 @@ label[for="new-task"] {
     margin: 0 0 20px;
 }
 
-input#new-task {
+.new-task {
     width: 318px;
 }
 
